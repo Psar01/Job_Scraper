@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-11 00:26 UTC",
+  "scraped_at": "2026-11-11 01:45 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "GASCADE Gastransport GmbH",
@@ -40,42 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "GASCADE Gastransport GmbH",
-      "title": "Werkstudierende (m/w/d) Digitale Vernetzung & Geodatenmanagement",
-      "location": "Kassel, HE, Germany",
-      "url": "https://de.indeed.com/viewjob?jk=4e9831680bcb5127",
-      "direct_url": "https://karriere.gascade.de/stellenangebote/werkstudierende-m/w/d-digitale-vernetzung-geodatenmanagement",
-      "company_url": "https://de.indeed.com/cmp/Gascade-Gastransport-Gmbh",
-      "date_posted": "2026-11-10",
-      "description": "GASCADE ist mit einem 4.100 Kilometer langen Pipeline-Netz einer der größten Betreiber von Ferngasleitungen in Deutschland. Wir leisten einen wichtigen Beitrag zur sicheren Energieversorgung in Deutschland und Europa und transportieren Gas zuverlässig und effizient.\n\nMit unserer jahrelangen Expertise treiben wir den Wandel der Energiewirtschaft aktiv voran. Mit unseren Projekten AquaDuctus und Flow – Making Hydrogen Happen sind wir beim Aufbau der neuen Wasserstoffinfrastruktur für Deutschland ganz vorn mit dabei.\n\nUnser Denken und Handeln orientiert sich dabei an Grundsätzen, die von Teamarbeit, Vielfalt und Innovation geprägt sind.\n\nKassel\n\nab sofort\n\n20 h / Woche\n\nLeitungsrechte und -dokumentation\n\n#### **Dein Aufgabengebiete:**\n\n* Du unterstützt das Team im operativen Tagesgeschäft „Digitale Vernetzung“ und „Geodatenmanagement“.\n* Dabei erfasst und migrierst du Netz- und Betriebsmittelinformationen im GIS-System bzw. in entsprechenden IT-Applikationen.\n* Die Plausibilitätsprüfung und Qualifizierung der Daten werden ebenfalls von dir durchgeführt.\n* Du wirkst bei der Konzeption und Entwicklung innovativer Technologien im Bereich Netz- und Geodaten mit.\n\n#### **Dein Profil:**\n\n* Du absolvierst ein ingenieurtechnisches Studium und hast bereits erste Kenntnisse im Bereich Bauingenieurs- oder Wirtschaftsingenieurswesen, Geoinformatik oder Maschinenbau sammeln können.\n* Du bist ca. 20 Stunden pro Woche für mindestens 1 1/2 Jahre verfügbar (ggf. nach Abstimmung in den Semesterferien mehr)\n* Du besitzt gute MS-Office-Kenntnisse und verfügst bestenfalls über erste Kenntnisse im Einsatz von Geoinformationssystemen (GIS).\n* Du arbeitest gerne im Team, organisierst dich selbstständig und kommunizierst sicher auf Deutsch und Englisch.\n* Dein Profil zeichnet sich durch hohe Zuverlässigkeit, eine selbstständige und strukturierte Arbeitsweise aus.\n\n#### **Wir bieten Dir:**\n\n* **Attraktive Vergütung:** Wir bieten dir 19,93 Euro pro Stunde.\n* **Flexible Arbeitszeiten:** Dein Studium ist wichtig, deshalb passen wir uns deinem Stundenplan an. Bei uns bestimmst du, wann du am produktivsten bist.\n* **Arbeiten von zu Hause:** Du möchtest deinen Arbeitsplatz flexibel gestalten? Wir unterstützen dich mit Home-Office-Möglichkeiten.\n* **Motiviertes Arbeitsumfeld:** Bei uns triffst du auf ein Team, das nicht nur professionell, sondern auch motiviert und inspiriert ist. Zusammen schaffen wir ein Umfeld, in dem Ideen wachsen und Innovationen entstehen.\n* **Schnelle Verantwortungsübernahme:** Bei uns zählst du von Anfang an! Übernimm schnell Verantwortung und gestalte eigenständig Projekte. Deine Ideen sind bei uns gefragt und werden wertgeschätzt.",
-      "salary": "$19.93/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "EUR",
-      "job_type": "parttime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Bertrandt",
-      "title": "Spezialist GIS-Produktkonfiguration & Testing (m/w/d)",
-      "location": "Berlin, BE, Germany",
-      "url": "https://de.indeed.com/viewjob?jk=6df77487e007c477",
-      "direct_url": "https://bertrandt.jobs.hr.cloud.sap/job/Spezialist-GIS-Produktkonfiguration-&-Testing-%28mwd%29/5177-de_DE",
-      "company_url": "https://de.indeed.com/cmp/Bertrandt",
-      "date_posted": "2026-11-10",
-      "description": "### **Wir sind Bertrandt.**\n\nEin eigenständiger und internationaler Engineering Dienstleister mit langjähriger Expertise. Mit branchenübergreifendem Know-how und einem ganzheitlichen System- und Produktverständnis schaffen wir technologische Lösungen entlang der gesamten Wertschöpfungskette. Wir beschäftigen uns mit den Trendthemen Digitalisierung, E-Mobilität und Autonome Systeme hauptsächlich für die Branchen Automotive, Luftfahrt, Defence und Maschinenbau und ermöglichen hier konsequent die Entstehung passgenauer Lösungen. Tag für Tag – mit rund 12.000 Mitarbeiterinnen und Mitarbeitern an mehr als 50 Standorten weltweit.\n\n### **Was Sie erwartet:**\n\n* Einführung und fachliche Weiterentwicklung des neuen GIS-Konfigurationstools\n* Implementierung und Pflege von GIS-Modulen, Konfigurationsregeln, Produktdaten und zugehörigen Grafiken\n* Analyse bestehender GIS-Konfigurationsinhalte und Überführung in die neue Toolumgebung\n* Übersetzung fachlicher Anforderungen in User Stories, Akzeptanzkriterien und Testfälle\n* Planung, Durchführung und Dokumentation fachlicher Tests sowie Überprüfung bestehender Funktionen nach Änderungen\n* Prüfung von Konfigurationsergebnissen, technischen Daten, Grafiken und Stücklisten auf Richtigkeit und Konsistenz\n* Erfassung, Analyse und Nachverfolgung von Fehlern und Abweichungen in Azure DevOps\n* Enge Zusammenarbeit mit Product Ownern, Entwicklungsteams sowie Fachverantwortlichen aus dem R&D- und PLM-UmfeldUnterstützung von Vertrieb, Auftragsabwicklung und Fertigung bei Fragen zur GIS-ProduktkonfigurationSicherstellung einer hohen Qualität, Konsistenz und Nachvollziehbarkeit der hinterlegten Produktdaten und Konfigurationsregeln\n\n### **Was Sie mitbringen:**\n\n* Abgeschlossenes technisches oder naturwissenschaftliches Studium, eine vergleichbare technische Qualifikation oder einschlägige Berufserfahrung\n* Erfahrung im Umgang mit CAD-Systemen, insbesondere AutoCAD\n* Gutes technisches Verständnis im Bereich Maschinenbau und/oder Elektrotechnik sowie sicherer Umgang mit technischen Zeichnungen und Stücklisten\n* Erfahrung in der Produktkonfiguration, im Variantenmanagement oder mit regelbasierten Konfigurationssystemen\n* Kenntnisse im Bereich gasisolierter Schaltanlagen (GIS) oder vergleichbarer technischer Produkte von Vorteil\n* Fähigkeit, komplexe Produktstrukturen, Konfigurationsregeln, Zeichnungen und Stücklisten zu analysieren und verständlich abzubilden\n* Erfahrung in der Erstellung, Durchführung und Dokumentation fachlicher Testfälle\n* Strukturierte Dokumentation und Nachverfolgung von Fehlern, Testergebnissen und fachlichen Entscheidungen\n* Erfahrung mit Azure DevOps oder vergleichbaren Tools für Anforderungs-, Test- und Fehlermanagement\n* Analytische, strukturierte und sorgfältige Arbeitsweise\n* Ausgeprägte Kommunikationsfähigkeit und die Fähigkeit, technische Zusammenhänge verständlich für Entwicklungsteams aufzubereiten\n* Bereitschaft, sich sowohl in die fachliche Produktkonfiguration als auch in Testmethoden weiter einzuarbeiten\n* Gute Deutsch- und Englischkenntnisse in Wort und Schrift\n\nFür einen namhaften Kunden suchen wir im Rahmen der Arbeitnehmerüberlassung einen **Spezialist GIS-Produktkonfiguration & Testing (m/w/d)** . Sie verfügen über Erfahrung in der technischen Produktkonfiguration, im Umgang mit CAD-Systemen und im Testing und möchten die Einführung und Weiterentwicklung innovativer Konfigurationslösungen für gasisolierte Schaltanlagen aktiv mitgestalten? Dann lassen Sie uns gemeinsam starten.\n\nBertrandt legt großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf den Erfahrungen und Fähigkeiten der Bewerber\\*innen. Schwerbehinderte Menschen bzw. gleichgestellte Menschen im Sinne des SGB IX sind herzlich willkommen und werden bei gleicher Eignung bevorzugt eingestellt.\n\n**Sie sind interessiert?**\n\nWir freuen uns über Ihre Bewerbung!\n\nBenefits: Corporate Benefits, Internes Gesundheitsmanagement, JobRad, Unbefristeter Arbeitsvertrag, Mitarbeiter-Events, Weiterbildungsangebote, Betriebliche Altersvorsorge und BU-Versicherung, Parkplätze, Firmeninterne Kantine\n\n**Kontakt**\n\nName: Paula Gridi-Papp\n\nTelefon: +49 7034 656-15077",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
