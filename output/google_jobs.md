@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — GIS & Geodaten Triage Roles
-*Last updated: 2026-11-11 17:31 UTC*
+*Last updated: 2026-11-11 18:25 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
