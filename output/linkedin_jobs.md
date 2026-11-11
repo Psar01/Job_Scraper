@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — GIS & Geodaten Triage Roles
-*Last updated: 2026-11-11 19:02 UTC*
+*Last updated: 2026-11-11 20:06 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
