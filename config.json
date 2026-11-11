@@ -3,16 +3,41 @@
     "title": "GIS & Geodaten Triage",
     "subtitle": "B.Sc. Geographie – Nahbereich Twistringen (~40 km) & 100% Remote"
   },
+  "location_filter": {
+    "terms": [
+      "germany",
+      "deutschland",
+      "niedersachsen",
+      "lower saxony",
+      "bremen",
+      "twistringen",
+      "syke",
+      "bassum",
+      "diepholz",
+      "vechta",
+      "delmenhorst",
+      "oldenburg",
+      "verden",
+      "remote",
+      "homeoffice",
+      "home office"
+    ]
+  },
   "keywords": {
     "include": [
       "GIS",
       "Geodaten",
       "Geoinformatik",
       "Geospatial",
+      "Geographie",
+      "Geograph",
+      "Geograf",
       "Fernerkundung",
       "Kartographie",
+      "Kartografie",
       "Netzdokumentation",
       "Leitungsdokumentation",
+      "Dokumentation",
       "Geodatenmanagement",
       "Geodatenmanager",
       "Flächensicherung",
@@ -20,8 +45,23 @@
       "Trassenplanung",
       "Bauverwaltung",
       "Raumplanung",
+      "Stadtplanung",
+      "Regionalplanung",
+      "Umweltplanung",
       "Kataster",
-      "Liegenschaften"
+      "Liegenschaften",
+      "Liegenschaft",
+      "Vermessung",
+      "QGIS",
+      "ArcGIS",
+      "Sachbearbeiter",
+      "Fachkraft",
+      "Mitarbeiter",
+      "Spezialist",
+      "Referent",
+      "Analyst",
+      "Planer",
+      "Projektentwickler"
     ],
     "exclude": [
       "Senior",
@@ -52,6 +92,8 @@
       "Schweiß",
       "Schlosser",
       "Monteur",
+      "Mechatroniker",
+      "Elektroniker",
       "Hochbau",
       "Tiefbau",
       "Rohrbau",
@@ -67,14 +109,24 @@
       "Softwareentwickler",
       "Data Engineer",
       "Trainer",
-      "Dozent"
+      "Dozent",
+      "Pflege",
+      "Arzt",
+      "Medizin",
+      "Buchhalter",
+      "Steuerfach",
+      "Vertrieb",
+      "Sales",
+      "Callcenter",
+      "Lager",
+      "Stapler"
     ]
   },
   "search_terms": {
     "indeed": [
       "(GIS OR Geodaten OR Geoinformatik OR Geospatial OR Kartographie) -Senior -Lead -Principal -Leiter -Leitung -Bauleiter",
       "(\"Netzdokumentation\" OR \"Geodatenmanagement\" OR Kataster OR Liegenschaften OR Bauverwaltung) -Senior -Lead -Leitung -Bauleiter",
-      "(\"Flächensicherung\" OR \"Standortsicherung\" OR Trassenplanung) -Senior -Lead -Leitung -Bauleiter"
+      "(\"Flächensicherung\" OR \"Standortsicherung\" OR Trassenplanung OR Raumplanung OR Umweltplanung) -Senior -Lead -Leitung -Bauleiter"
     ],
     "linkedin": [
       "\"GIS\" -Senior -Lead -Leiter -Leitung -Bauleiter",
