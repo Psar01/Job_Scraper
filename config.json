@@ -4,9 +4,13 @@
     "subtitle": "B.Sc. Geographie – Nahbereich Twistringen (~40 km) & 100% Remote"
   },
   "location_filter": {
+    "enabled": false,
     "terms": [
       "germany",
       "deutschland",
+      "de",
+      "ni",
+      "hb",
       "niedersachsen",
       "lower saxony",
       "bremen",
@@ -61,7 +65,9 @@
       "Referent",
       "Analyst",
       "Planer",
-      "Projektentwickler"
+      "Projektentwickler",
+      "Ingenieur",
+      "Techniker"
     ],
     "exclude": [
       "Senior",
@@ -124,22 +130,26 @@
   },
   "search_terms": {
     "indeed": [
-      "(GIS OR Geodaten OR Geoinformatik OR Geospatial OR Kartographie) -Senior -Lead -Principal -Leiter -Leitung -Bauleiter",
-      "(\"Netzdokumentation\" OR \"Geodatenmanagement\" OR Kataster OR Liegenschaften OR Bauverwaltung) -Senior -Lead -Leitung -Bauleiter",
-      "(\"Flächensicherung\" OR \"Standortsicherung\" OR Trassenplanung OR Raumplanung OR Umweltplanung) -Senior -Lead -Leitung -Bauleiter"
+      "GIS",
+      "Geodaten",
+      "Geoinformatik",
+      "Netzdokumentation",
+      "Geodatenmanagement",
+      "Kataster",
+      "Flächensicherung",
+      "Raumplanung",
+      "Umweltplanung"
     ],
     "linkedin": [
-      "\"GIS\" -Senior -Lead -Leiter -Leitung -Bauleiter",
-      "\"Geodaten\" -Senior -Lead -Leiter -Leitung -Bauleiter",
-      "\"Geoinformatik\" -Senior -Lead -Leiter -Leitung -Bauleiter",
-      "\"Netzdokumentation\" -Senior -Lead -Leiter -Leitung -Bauleiter",
-      "\"Bauverwaltung\" -Senior -Lead -Leiter -Leitung -Bauleiter"
+      "GIS",
+      "Geodaten",
+      "Geoinformatik",
+      "Netzdokumentation"
     ],
     "google_jobs": [
-      "GIS Jobs Twistringen",
-      "Geodaten Jobs Bremen",
-      "Netzdokumentation Jobs Bremen",
-      "GIS Sachbearbeiter Remote Deutschland"
+      "GIS",
+      "Geodaten",
+      "Netzdokumentation"
     ]
   },
   "locations": {
@@ -153,7 +163,11 @@
         "country": "Germany"
       },
       {
-        "location": "Deutschland",
+        "location": "Oldenburg",
+        "country": "Germany"
+      },
+      {
+        "location": "Diepholz",
         "country": "Germany"
       }
     ],
@@ -165,16 +179,17 @@
       {
         "location": "Bremen, Germany",
         "geoId": ""
-      },
-      {
-        "location": "Germany",
-        "geoId": ""
       }
     ],
     "google_jobs": [
-      "Twistringen, Germany",
-      "Bremen, Germany",
-      "Germany"
+      {
+        "location": "Twistringen, Germany",
+        "country": "Germany"
+      },
+      {
+        "location": "Bremen, Germany",
+        "country": "Germany"
+      }
     ]
   },
   "priority_topics": [
